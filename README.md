@@ -28,7 +28,7 @@ A Django web application for managing a university fitness centre. Members can b
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/JeffZhang852/COEN6311-SANJ.git
+git clone https://github.com/AmmarZ0/COEN6311.git
 cd COEN6311-SANJ
 ```
 
